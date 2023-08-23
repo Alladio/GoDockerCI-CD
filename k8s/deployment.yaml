@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: server
-        image: "alladio/hello-go3:v2"
+        image: "alladio/hello-go3:latest"
